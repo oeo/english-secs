@@ -1,0 +1,16 @@
+{
+  "name": "english-secs",
+  "version": "1.0.0",
+  "main": "module.js",
+  "repository": "https://github.com/oeo/english-secs.git",
+  "author": "boobie <boobie@riseup.net>",
+  "license": "mit",
+  "scripts": {
+    "test": "make clean && make && mocha test.js",
+    "build": "make clean && make"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.5.1",
+    "mocha": "^9.1.3"
+  }
+}
