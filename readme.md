@@ -1,3 +1,5 @@
+![Run Tests](../../actions/workflows/test.yml/badge.svg)
+
 # english-secs
 
 convert english time expressions to seconds or milliseconds. zero runtime dependencies.
